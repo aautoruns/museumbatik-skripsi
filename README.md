@@ -1,4 +1,4 @@
-# Galih Azella Firdaus Portfolio
+# Museum Batik Company Profile
 
 ![Codacy
 Badge](https://img.shields.io/codacy/grade/261e788060044de3b7ac80ce9bffec31?color=1a73e8&logo=codacy&style=for-the-badge)
@@ -36,67 +36,3 @@ as in the traditional approach.
     <li>CSS is global in nature and if make changes in the file the property is changed in all the HTML files linked to it. But
     with the help of Tailwind CSS we can use utility classes and make local changes.</li>
 </ul>
-
-## Page Speed Test 💨
-
-<details>
-<summary>
-Desktop Best Practice 🖥️
-</summary>
-
-![image](https://user-images.githubusercontent.com/96577430/224525490-fc464771-6601-44db-9bdf-414a7b0a41db.png)
-
-</details>
-
-<details>
-<summary>
-Mobile Best Practice 📱
-</summary>
-
-![image](https://user-images.githubusercontent.com/96577430/224525466-403884f0-7763-4c9c-9c78-97f88b5ccd6d.png)
-
-</details>
-
-## Technologies used in the project 💻
-
-![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-fff?style=for-the-badge&logo=tailwindcss&logoColor=3ebaf2)
-
-## Installation 📐
-
-If you want to copy my portfolio, please follow these steps. These instructions will get you a copy of the project up
-and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the
-project on a live system.
-
-```bash
-    # Clone the repository
-    $ git clone https://github.com/aautoruns/galihazellaa
-
-    # Move into the repository
-    $ cd galihazellaa
-
-    # Remove the current origin repository
-    $ git remote remove origin
-```
-
-After that, install all Node package for this project
-
-```bash
-    # Install Tailwind Module
-    $ npm install -D tailwindcss
-
-    # Install Typed Module
-    $ npm install typed.js
-
-    # Install Flowbites Module
-    $ npm i flowbite
-```
-
-## Preview 👁️
-
-<div align="center">
-Then in your text editor click `Run` to see the portfolio locally. It should look like the below screenshot.
-<img src="https://user-images.githubusercontent.com/96577430/222501935-f95ec3b6-9e27-464b-b5a1-13fd2a559811.gif" width="80%" alt="portfolio_demo">
-</div>
